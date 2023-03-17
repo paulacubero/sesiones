@@ -1,0 +1,2 @@
+# sesiones
+phpStorm ,  delete
